@@ -5,7 +5,8 @@
 ## 📱 Ekran Görüntüleri
 
 <p align="center">
-  <img src="screenshots/gameplay.png" alt="Oyun Ekranı" width="300" />
+  <img width="364" height="804" alt="image" src="https://github.com/user-attachments/assets/ec29fbdf-3f66-4306-a1a6-29ce698659c4" />
+  <img width="363" height="807" alt="image" src="https://github.com/user-attachments/assets/ad2bfb86-f25e-4e8c-8a60-9e77edc38a85" />
 </p>
 
 ## 🎮 Nasıl Oynanır?
